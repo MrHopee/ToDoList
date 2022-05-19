@@ -1,0 +1,4 @@
+-add task dendiğinde açılan pencereye girilen datayı databasedeki tabloya kaydet ve ekrana oradan yazdır.
+-kullanıcı girişi?
+-completed olarak güncellenen datayı databasede de güncelle .
+-silinen datayı databaseden de sil.

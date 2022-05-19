@@ -1,0 +1,4 @@
+CREATE TABLE todo_list
+            id INTEGER PRIMARY KEY NOT NULL,
+            content TEXT NOT NULL,
+            is_mark_as_completed BOOLEAN NOT NULL,
